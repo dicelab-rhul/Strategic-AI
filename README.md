@@ -2,7 +2,7 @@
 
 ## 🧠 Tutorial Outline
 
-**🔍 Overview**
+### 🔍 Overview
   - Explores how game theory and multi-agent systems (MAS) can model strategic interactions among agents.
   - Emphasizes recent AI advancements, especially Large Language Models (LLMs), for integrating these fields.
   - Introduces autoformalization techniques and game-theoretic concepts for negotiation, cooperation, and competition.
@@ -10,7 +10,7 @@
 
 ---
 
-**🎲 Part 1: Introduction to Game Theory and MAS** (60 mins)
+### 🎲 Part 1: Introduction to Game Theory and MAS (60 mins)
   - **🚀 Motivation and Relevance**
     - Strategic interactions in AI applications: economics, robotics, autonomous vehicles, auctions, etc.
     - Challenges: non-deterministic environments, bounded rationality.
@@ -33,7 +33,7 @@
 
 ---
 
-**🗂️ Part 2: The Game Description Language (GDL)** (60 mins)
+### 🗂️ Part 2: The Game Description Language (GDL) (60 mins)
   - **📜 Introduction to GDL**
     - Origins and role in general game-playing AI.
     - Support for games without prior knowledge.
@@ -51,7 +51,7 @@
 
 ---
 
-**🧩 Part 3: Belief Hierarchies and Theory of Mind** (60 mins)
+### 🧩 Part 3: Belief Hierarchies and Theory of Mind (60 mins)
   - **🧠 Theory of Mind (ToM)**
     - Modeling agents that reason about others' mental states.
     - ToM as a benchmark for human-like reasoning.
@@ -65,7 +65,7 @@
 
 ---
 
-**🤖 Part 4: Autoformalization, Simulation Framework, and Case Studies** (60 mins)
+### 🤖 Part 4: Autoformalization, Simulation Framework, and Case Studies (60 mins)
   - **📝 Autoformalization with LLMs**
     - Translating natural language to logic/formal systems.
     - Enhances reasoning and scalability in AI systems.
@@ -87,5 +87,6 @@
 Before attending the tutorial, please ensure you have the following setup ready to fully participate in the hands-on components:
 
 - **🧰 Tools**
-  - Python 3, Jupyter Notebook, SWI-Prolog for running the examples locally,     
+  - Python 3, Jupyter Notebook, SWI-Prolog for running the examples locally, <br>
+    or     
   - Google Colab for cloud-based execution.
