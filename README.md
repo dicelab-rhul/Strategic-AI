@@ -1,5 +1,9 @@
 # Strategic AI: Bridging Game Theory and Multi-Agent Systems via Autoformalization
 
+<p align="center">
+  <img src="assets/banner.png" width="80%">
+</p>
+
 ## 🧠 Tutorial Outline
 
 ### 🔍 Overview
