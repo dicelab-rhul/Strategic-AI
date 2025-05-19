@@ -55,7 +55,7 @@
 
 ---
 
-### 🤖 Part 4: Autoformalization, Simulation Framework, and Case Studies (35 mins)
+### 🤖 Part 3: Autoformalization, Simulation Framework, and Case Studies (35 mins)
   - **📝 Autoformalization with LLMs**
     - Translating natural language to logic/formal systems.
     - Enhances reasoning and scalability in AI systems.
