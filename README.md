@@ -14,7 +14,7 @@
 
 ---
 
-### 🎲 Part 1: Introduction to Game Theory and MAS (60 mins)
+### 🎲 Part 1: Introduction to Game Theory and MAS (50 mins)
   - **🚀 Motivation and Relevance**
     - Strategic interactions in AI applications: economics, robotics, autonomous vehicles, auctions, etc.
     - Challenges: non-deterministic environments, bounded rationality.
@@ -37,7 +37,7 @@
 
 ---
 
-### 🗂️ Part 2: The Game Description Language (GDL) (60 mins)
+### 🗂️ Part 2: The Game Description Language (GDL) (40 mins)
   - **📜 Introduction to GDL**
     - Origins and role in general game-playing AI.
     - Support for games without prior knowledge.
@@ -55,21 +55,7 @@
 
 ---
 
-### 🧩 Part 3: Belief Hierarchies and Theory of Mind (60 mins)
-  - **🧠 Theory of Mind (ToM)**
-    - Modeling agents that reason about others' mental states.
-    - ToM as a benchmark for human-like reasoning.
-  - **⚠️ Limitations of Standard Game Theory**
-    - Unrealistic assumptions: common rationality, shared payoffs.
-    - Extensions: player types, belief hierarchies.
-  - **🎭 Hypergame Theory**
-    - Captures misaligned perceptions and beliefs.
-    - Models recursive reasoning ("beliefs about beliefs").
-    - 🧪 Demonstration via multi-agent simulation platform.
-
----
-
-### 🤖 Part 4: Autoformalization, Simulation Framework, and Case Studies (60 mins)
+### 🤖 Part 4: Autoformalization, Simulation Framework, and Case Studies (35 mins)
   - **📝 Autoformalization with LLMs**
     - Translating natural language to logic/formal systems.
     - Enhances reasoning and scalability in AI systems.
@@ -83,6 +69,20 @@
   - **📊 Case Studies**
     - Examples for 2×2 simultaneous-move games.
     - Showcases applications of the framework.
+
+---
+
+### 🧩 Part 4: Belief Hierarchies and Theory of Mind (35 mins)
+  - **🧠 Theory of Mind (ToM)**
+    - Modeling agents that reason about others' mental states.
+    - ToM as a benchmark for human-like reasoning.
+  - **⚠️ Limitations of Standard Game Theory**
+    - Unrealistic assumptions: common rationality, shared payoffs.
+    - Extensions: player types, belief hierarchies.
+  - **🎭 Hypergame Theory**
+    - Captures misaligned perceptions and beliefs.
+    - Models recursive reasoning ("beliefs about beliefs").
+    - 🧪 Demonstration via multi-agent simulation platform.
    
 ---
 
