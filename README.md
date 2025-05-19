@@ -91,9 +91,9 @@
 Before attending the tutorial, please ensure you have the following setup ready to fully participate in the hands-on components:
 
 - **🧰 Tools**
-  - Python 3, Jupyter Notebook, SWI-Prolog for running the examples locally, <br>
+  - Python 3, Jupyter Notebook, SWI-Prolog for running the examples locally (please follow the [installation instructions](https://github.com/dicelab-rhul/GAMA?tab=readme-ov-file#installation)), <br>
     or     
-  - Google Colab for cloud-based execution.
+  - Google Colab for cloud-based execution: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dicelab-rhul/GAMA/blob/main/tutorial/Tutorial.ipynb)
 
 ## 📚 Bibliography
 
