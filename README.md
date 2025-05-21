@@ -13,7 +13,7 @@
   - It is a **🕒 half-day tutorial**, split into four parts.
 
 **📘 Materials:**
-- <a href="/assets/Strategic_AI_AAMAS__25.pdf" target="_blank">Tutorial slides</a>
+- <a href="/Strategic-AI/assets/Strategic_AI_AAMAS__25.pdf" target="_blank">Tutorial slides</a>
 
 **🧰 Tools:**
   - Python 3, Jupyter Notebook, SWI-Prolog for running the examples locally (please follow the [installation instructions](https://github.com/dicelab-rhul/GAMA?tab=readme-ov-file#installation)), <br>
