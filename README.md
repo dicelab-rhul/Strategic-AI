@@ -12,6 +12,14 @@
   - Introduces autoformalization techniques and game-theoretic concepts for negotiation, cooperation, and competition.
   - It is a **🕒 half-day tutorial**, split into four parts.
 
+**📘 Materials:**
+- [Tutorial slides](https://github.com/dicelab-rhul/Strategic-AI/blob/main/assets/Strategic_AI_AAMAS__25.pdf)
+
+**🧰 Tools:**
+  - Python 3, Jupyter Notebook, SWI-Prolog for running the examples locally (please follow the [installation instructions](https://github.com/dicelab-rhul/GAMA?tab=readme-ov-file#installation)), <br>
+    or     
+  - Google Colab for cloud-based execution: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dicelab-rhul/GAMA/blob/main/tutorial/Tutorial.ipynb)
+
 ---
 
 ### 🎲 Part 1: Introduction to Game Theory and MAS (50 mins)
@@ -86,14 +94,6 @@
    
 ---
 
-## 💻 Technical Setup
-
-Before attending the tutorial, please ensure you have the following setup ready to fully participate in the hands-on components:
-
-- **🧰 Tools**
-  - Python 3, Jupyter Notebook, SWI-Prolog for running the examples locally (please follow the [installation instructions](https://github.com/dicelab-rhul/GAMA?tab=readme-ov-file#installation)), <br>
-    or     
-  - Google Colab for cloud-based execution: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dicelab-rhul/GAMA/blob/main/tutorial/Tutorial.ipynb)
 
 ## 📚 Bibliography
 
