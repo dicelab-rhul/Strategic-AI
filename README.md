@@ -22,7 +22,7 @@
 
 ---
 
-### 🎲 Part 1: Introduction to Game Theory and MAS (50 mins)
+### 🎲 Part 1: Introduction to Game Theory and MAS
   - **🚀 Motivation and Relevance**
     - Strategic interactions in AI applications: economics, robotics, autonomous vehicles, auctions, etc.
     - Challenges: non-deterministic environments, bounded rationality.
@@ -45,7 +45,7 @@
 
 ---
 
-### 🗂️ Part 2: The Game Description Language (GDL) (40 mins)
+### 🗂️ Part 2: The Game Description Language (GDL)
   - **📜 Introduction to GDL**
     - Origins and role in general game-playing AI.
     - Support for games without prior knowledge.
@@ -63,7 +63,7 @@
 
 ---
 
-### 🤖 Part 3: Autoformalization, Simulation Framework, and Case Studies (35 mins)
+### 🤖 Part 3: Autoformalization, Simulation Framework, and Case Studies
   - **📝 Autoformalization with LLMs**
     - Translating natural language to logic/formal systems.
     - Enhances reasoning and scalability in AI systems.
@@ -80,7 +80,7 @@
 
 ---
 
-### 🧩 Part 4: Belief Hierarchies and Theory of Mind (35 mins)
+### 🧩 Part 4: Belief Hierarchies and Theory of Mind
   - **🧠 Theory of Mind (ToM)**
     - Modeling agents that reason about others' mental states.
     - ToM as a benchmark for human-like reasoning.
